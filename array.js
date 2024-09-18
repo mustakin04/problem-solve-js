@@ -1,3 +1,4 @@
+// array
 let number = [20, 30, 40, 50];
 console.log(number);
 console.log("Length " + number.length);
